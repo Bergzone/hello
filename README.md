@@ -1,3 +1,2 @@
-# hello-world
-Oakmont Campus
+#Oakmont Campus
 Sustainable-renewable energy community
